@@ -1,0 +1,15 @@
+{
+  "name": "pp_js_syntax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proj.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
